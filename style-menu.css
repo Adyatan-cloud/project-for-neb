@@ -1,0 +1,34 @@
+body {
+	margin:0;
+}
+.main-menu {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: black;
+  position: fixed;
+  margin: 0;
+  width: 100%;
+  text-transform: uppercase;
+
+}
+.main-menu li{
+	float: left;
+}
+
+.main-menu li a{
+				display: block;
+				padding: 25px;
+				text-align: center;
+				text-decoration: none;
+				color: white;
+}
+
+
+.main-menu a:hover{
+		background-color: white;
+		color: black;
+}
+
+.main-menu li a.active{
+	background-color: red;
+}
