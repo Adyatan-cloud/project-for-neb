@@ -1,0 +1,44 @@
+body{
+	font-family: courier;
+}
+
+p{
+	font-weight: bold;
+	text-align: center;
+	font-size: 28px;
+}
+
+.parent{
+	width: 800px;
+	margin: auto;
+	text-align: center;
+}
+
+.child{
+	font-style: italic;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 5%;
+	width: 20%;
+	height: 150px;
+	font-family: courier;
+	border:2px solid;	
+	float: left;
+}
+
+img{
+	border-radius: 300px;
+	width: 20%;
+	height: 20%;
+
+}
+.bottom{
+	float: right;
+	text-align: center;
+}
+a{
+	color: black;
+}
+a:hover{
+	color: red;
+}

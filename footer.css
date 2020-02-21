@@ -13,3 +13,9 @@ body {
 	font-family: courier;
 
 }
+a{
+	color: white;
+}
+a:hover{
+	color: red;
+}
