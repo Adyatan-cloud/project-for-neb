@@ -1,0 +1,76 @@
+
+body{
+	font-family: courier;
+}
+.logo{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 200px;
+	margin-top: -35px;
+	margin-bottom: -80px;
+	
+}
+
+p.h1{
+	font-weight: bold;
+	font-size: 50px;
+	background-color: black;
+	color: white;
+	width: 70%;
+	border-radius: 35px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 20px;
+}
+p.h2{
+		font-weight: bolder;
+		text-align: center;
+		text-decoration: underline;
+		margin-bottom: 25px;
+}
+
+p{
+	text-align: center;
+	font-weight: 550;
+	margin-bottom: 30px;
+}
+
+hr{
+	border: 2px solid black;
+}
+
+th{
+	border: 2px solid;
+	padding:20px;
+}
+.t1, td{
+
+	padding: 2px;
+	text-align: center;
+	border: 1px solid;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	border-collapse: collapse;
+	margin-bottom: 50px;
+}
+.r1{
+	font-weight: bold;
+}
+.form{
+	border: 2px solid;
+	padding: 5px;
+	width: 40%;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}

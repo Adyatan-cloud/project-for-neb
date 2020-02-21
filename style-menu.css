@@ -2,8 +2,8 @@ body {
 	margin:0;
 }
 .main-menu {
-  list-style-type: none;
   overflow: hidden;
+  list-style-type: none;
   background-color: black;
   margin: 0;
   width: 100%;
@@ -17,7 +17,7 @@ body {
 .main-menu li a{
 				font-family: courier;
 				display: block;
-				padding: 25px;
+				padding: 20px;
 				text-align: center;
 				text-decoration: none;
 				color: white;
@@ -32,3 +32,4 @@ body {
 .main-menu li a.active{
 	background-color: red;
 }
+

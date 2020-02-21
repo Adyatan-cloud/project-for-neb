@@ -1,0 +1,21 @@
+hr{
+	border: 2px solid;
+}
+.img{
+	display: block;
+	padding:20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%
+
+}
+div{
+	border: 4px solid;
+	width:70%;
+	padding: 20px;
+	font-family: courier;
+	margin: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
